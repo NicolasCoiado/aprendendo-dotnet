@@ -1,0 +1,15 @@
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\obj\Debug\net8.0\ConversaoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\obj\Debug\net8.0\ConversaoC.AssemblyInfoInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\obj\Debug\net8.0\ConversaoC.AssemblyInfo.cs
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\obj\Debug\net8.0\ConversaoC.csproj.CoreCompileInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\obj\Debug\net8.0\ConversaoC.sourcelink.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\bin\Debug\net8.0\ConversaoC.exe
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\bin\Debug\net8.0\ConversaoC.deps.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\bin\Debug\net8.0\ConversaoC.runtimeconfig.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\bin\Debug\net8.0\ConversaoC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\bin\Debug\net8.0\ConversaoC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\obj\Debug\net8.0\ConversaoC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\obj\Debug\net8.0\refint\ConversaoC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\obj\Debug\net8.0\ConversaoC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\obj\Debug\net8.0\ConversaoC.genruntimeconfig.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ConversaoC\obj\Debug\net8.0\ref\ConversaoC.dll

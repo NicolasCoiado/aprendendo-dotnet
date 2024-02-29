@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RepeticaoC/1.0.0": {
+        "runtime": {
+          "RepeticaoC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepeticaoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

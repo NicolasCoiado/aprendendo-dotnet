@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeiroC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24f1a73757d7401a1dd55476ef1425775e230eba")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeiroC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeiroC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

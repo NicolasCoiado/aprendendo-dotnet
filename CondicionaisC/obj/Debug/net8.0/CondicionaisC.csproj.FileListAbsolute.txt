@@ -1,0 +1,15 @@
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\obj\Debug\net8.0\CondicionaisC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\obj\Debug\net8.0\CondicionaisC.AssemblyInfoInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\obj\Debug\net8.0\CondicionaisC.AssemblyInfo.cs
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\obj\Debug\net8.0\CondicionaisC.csproj.CoreCompileInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\obj\Debug\net8.0\CondicionaisC.sourcelink.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\bin\Debug\net8.0\CondicionaisC.exe
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\bin\Debug\net8.0\CondicionaisC.deps.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\bin\Debug\net8.0\CondicionaisC.runtimeconfig.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\bin\Debug\net8.0\CondicionaisC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\bin\Debug\net8.0\CondicionaisC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\obj\Debug\net8.0\CondicionaisC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\obj\Debug\net8.0\refint\CondicionaisC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\obj\Debug\net8.0\CondicionaisC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\obj\Debug\net8.0\CondicionaisC.genruntimeconfig.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\CondicionaisC\obj\Debug\net8.0\ref\CondicionaisC.dll

@@ -1,0 +1,15 @@
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\obj\Debug\net8.0\RepeticaoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\obj\Debug\net8.0\RepeticaoC.AssemblyInfoInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\obj\Debug\net8.0\RepeticaoC.AssemblyInfo.cs
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\obj\Debug\net8.0\RepeticaoC.csproj.CoreCompileInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\obj\Debug\net8.0\RepeticaoC.sourcelink.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\bin\Debug\net8.0\RepeticaoC.exe
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\bin\Debug\net8.0\RepeticaoC.deps.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\bin\Debug\net8.0\RepeticaoC.runtimeconfig.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\bin\Debug\net8.0\RepeticaoC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\bin\Debug\net8.0\RepeticaoC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\obj\Debug\net8.0\RepeticaoC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\obj\Debug\net8.0\refint\RepeticaoC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\obj\Debug\net8.0\RepeticaoC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\obj\Debug\net8.0\RepeticaoC.genruntimeconfig.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\RepeticaoC\obj\Debug\net8.0\ref\RepeticaoC.dll

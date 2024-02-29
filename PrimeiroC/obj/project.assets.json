@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\n.martins\\Desktop\\PrimeiroC\\PrimeiroC.csproj",
+      "projectUniqueName": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\PrimeiroC\\PrimeiroC.csproj",
       "projectName": "PrimeiroC",
-      "projectPath": "C:\\Users\\n.martins\\Desktop\\PrimeiroC\\PrimeiroC.csproj",
+      "projectPath": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\PrimeiroC\\PrimeiroC.csproj",
       "packagesPath": "C:\\Users\\n.martins\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\n.martins\\Desktop\\PrimeiroC\\obj\\",
+      "outputPath": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\PrimeiroC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\n.martins\\AppData\\Roaming\\NuGet\\NuGet.Config"
