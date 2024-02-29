@@ -1,0 +1,14 @@
+C:\Users\n.martins\Desktop\PrimeiroC\bin\Debug\net8.0\PrimeiroC.exe
+C:\Users\n.martins\Desktop\PrimeiroC\bin\Debug\net8.0\PrimeiroC.deps.json
+C:\Users\n.martins\Desktop\PrimeiroC\bin\Debug\net8.0\PrimeiroC.runtimeconfig.json
+C:\Users\n.martins\Desktop\PrimeiroC\bin\Debug\net8.0\PrimeiroC.dll
+C:\Users\n.martins\Desktop\PrimeiroC\bin\Debug\net8.0\PrimeiroC.pdb
+C:\Users\n.martins\Desktop\PrimeiroC\obj\Debug\net8.0\PrimeiroC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.martins\Desktop\PrimeiroC\obj\Debug\net8.0\PrimeiroC.AssemblyInfoInputs.cache
+C:\Users\n.martins\Desktop\PrimeiroC\obj\Debug\net8.0\PrimeiroC.AssemblyInfo.cs
+C:\Users\n.martins\Desktop\PrimeiroC\obj\Debug\net8.0\PrimeiroC.csproj.CoreCompileInputs.cache
+C:\Users\n.martins\Desktop\PrimeiroC\obj\Debug\net8.0\PrimeiroC.dll
+C:\Users\n.martins\Desktop\PrimeiroC\obj\Debug\net8.0\refint\PrimeiroC.dll
+C:\Users\n.martins\Desktop\PrimeiroC\obj\Debug\net8.0\PrimeiroC.pdb
+C:\Users\n.martins\Desktop\PrimeiroC\obj\Debug\net8.0\PrimeiroC.genruntimeconfig.cache
+C:\Users\n.martins\Desktop\PrimeiroC\obj\Debug\net8.0\ref\PrimeiroC.dll
