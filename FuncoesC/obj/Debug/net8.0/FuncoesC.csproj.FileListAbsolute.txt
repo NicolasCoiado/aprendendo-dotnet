@@ -1,0 +1,15 @@
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\bin\Debug\net8.0\FuncoesC.exe
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\bin\Debug\net8.0\FuncoesC.deps.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\bin\Debug\net8.0\FuncoesC.runtimeconfig.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\bin\Debug\net8.0\FuncoesC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\bin\Debug\net8.0\FuncoesC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\obj\Debug\net8.0\FuncoesC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\obj\Debug\net8.0\FuncoesC.AssemblyInfoInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\obj\Debug\net8.0\FuncoesC.AssemblyInfo.cs
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\obj\Debug\net8.0\FuncoesC.csproj.CoreCompileInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\obj\Debug\net8.0\FuncoesC.sourcelink.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\obj\Debug\net8.0\FuncoesC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\obj\Debug\net8.0\refint\FuncoesC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\obj\Debug\net8.0\FuncoesC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\obj\Debug\net8.0\FuncoesC.genruntimeconfig.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\FuncoesC\obj\Debug\net8.0\ref\FuncoesC.dll
