@@ -1,0 +1,15 @@
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\bin\Debug\net8.0\MemoriaC.exe
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\bin\Debug\net8.0\MemoriaC.deps.json
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\bin\Debug\net8.0\MemoriaC.runtimeconfig.json
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\bin\Debug\net8.0\MemoriaC.dll
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\bin\Debug\net8.0\MemoriaC.pdb
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\obj\Debug\net8.0\MemoriaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\obj\Debug\net8.0\MemoriaC.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\obj\Debug\net8.0\MemoriaC.AssemblyInfo.cs
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\obj\Debug\net8.0\MemoriaC.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\obj\Debug\net8.0\MemoriaC.sourcelink.json
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\obj\Debug\net8.0\MemoriaC.dll
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\obj\Debug\net8.0\refint\MemoriaC.dll
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\obj\Debug\net8.0\MemoriaC.pdb
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\obj\Debug\net8.0\MemoriaC.genruntimeconfig.cache
+C:\Users\nicol\Desktop\aprendendo-dotnet\MemoriaC\obj\Debug\net8.0\ref\MemoriaC.dll
