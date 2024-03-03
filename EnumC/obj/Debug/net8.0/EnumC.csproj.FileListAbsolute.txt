@@ -1,0 +1,15 @@
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\bin\Debug\net8.0\EnumC.exe
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\bin\Debug\net8.0\EnumC.deps.json
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\bin\Debug\net8.0\EnumC.runtimeconfig.json
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\bin\Debug\net8.0\EnumC.dll
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\bin\Debug\net8.0\EnumC.pdb
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\obj\Debug\net8.0\EnumC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\obj\Debug\net8.0\EnumC.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\obj\Debug\net8.0\EnumC.AssemblyInfo.cs
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\obj\Debug\net8.0\EnumC.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\obj\Debug\net8.0\EnumC.sourcelink.json
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\obj\Debug\net8.0\EnumC.dll
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\obj\Debug\net8.0\refint\EnumC.dll
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\obj\Debug\net8.0\EnumC.pdb
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\obj\Debug\net8.0\EnumC.genruntimeconfig.cache
+C:\Users\nicol\Desktop\aprendendo-dotnet\EnumC\obj\Debug\net8.0\ref\EnumC.dll
