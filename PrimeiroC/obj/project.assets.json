@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\n.martins\\.nuget\\packages\\": {}
+    "C:\\Users\\nicol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\PrimeiroC\\PrimeiroC.csproj",
+      "projectUniqueName": "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\PrimeiroC\\PrimeiroC.csproj",
       "projectName": "PrimeiroC",
-      "projectPath": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\PrimeiroC\\PrimeiroC.csproj",
-      "packagesPath": "C:\\Users\\n.martins\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\PrimeiroC\\obj\\",
+      "projectPath": "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\PrimeiroC\\PrimeiroC.csproj",
+      "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\PrimeiroC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\n.martins\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

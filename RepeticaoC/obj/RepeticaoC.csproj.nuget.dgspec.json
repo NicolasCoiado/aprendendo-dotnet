@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\RepeticaoC\\RepeticaoC.csproj": {}
+    "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\RepeticaoC\\RepeticaoC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\RepeticaoC\\RepeticaoC.csproj": {
+    "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\RepeticaoC\\RepeticaoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\RepeticaoC\\RepeticaoC.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\RepeticaoC\\RepeticaoC.csproj",
         "projectName": "RepeticaoC",
-        "projectPath": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\RepeticaoC\\RepeticaoC.csproj",
-        "packagesPath": "C:\\Users\\n.martins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\RepeticaoC\\obj\\",
+        "projectPath": "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\RepeticaoC\\RepeticaoC.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\RepeticaoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\n.martins\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

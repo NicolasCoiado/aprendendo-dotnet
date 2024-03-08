@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\CondicionaisC\\CondicionaisC.csproj": {}
+    "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\CondicionaisC\\CondicionaisC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\CondicionaisC\\CondicionaisC.csproj": {
+    "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\CondicionaisC\\CondicionaisC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\CondicionaisC\\CondicionaisC.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\CondicionaisC\\CondicionaisC.csproj",
         "projectName": "CondicionaisC",
-        "projectPath": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\CondicionaisC\\CondicionaisC.csproj",
-        "packagesPath": "C:\\Users\\n.martins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n.martins\\Desktop\\aprendendo-dotnet\\CondicionaisC\\obj\\",
+        "projectPath": "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\CondicionaisC\\CondicionaisC.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\Desktop\\aprendendo-dotnet\\CondicionaisC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\n.martins\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
