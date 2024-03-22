@@ -1,0 +1,15 @@
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\bin\Debug\net8.0\StringsC.exe
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\bin\Debug\net8.0\StringsC.deps.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\bin\Debug\net8.0\StringsC.runtimeconfig.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\bin\Debug\net8.0\StringsC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\bin\Debug\net8.0\StringsC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\obj\Debug\net8.0\StringsC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\obj\Debug\net8.0\StringsC.AssemblyInfoInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\obj\Debug\net8.0\StringsC.AssemblyInfo.cs
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\obj\Debug\net8.0\StringsC.csproj.CoreCompileInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\obj\Debug\net8.0\StringsC.sourcelink.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\obj\Debug\net8.0\StringsC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\obj\Debug\net8.0\refint\StringsC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\obj\Debug\net8.0\StringsC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\obj\Debug\net8.0\StringsC.genruntimeconfig.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\StringsC\obj\Debug\net8.0\ref\StringsC.dll
