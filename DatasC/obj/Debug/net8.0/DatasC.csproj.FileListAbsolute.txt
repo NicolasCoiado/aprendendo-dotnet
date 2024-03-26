@@ -1,0 +1,15 @@
+C:\Users\n.martins\aprendendo-dotnet\DatasC\bin\Debug\net8.0\DatasC.exe
+C:\Users\n.martins\aprendendo-dotnet\DatasC\bin\Debug\net8.0\DatasC.deps.json
+C:\Users\n.martins\aprendendo-dotnet\DatasC\bin\Debug\net8.0\DatasC.runtimeconfig.json
+C:\Users\n.martins\aprendendo-dotnet\DatasC\bin\Debug\net8.0\DatasC.dll
+C:\Users\n.martins\aprendendo-dotnet\DatasC\bin\Debug\net8.0\DatasC.pdb
+C:\Users\n.martins\aprendendo-dotnet\DatasC\obj\Debug\net8.0\DatasC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.martins\aprendendo-dotnet\DatasC\obj\Debug\net8.0\DatasC.AssemblyInfoInputs.cache
+C:\Users\n.martins\aprendendo-dotnet\DatasC\obj\Debug\net8.0\DatasC.AssemblyInfo.cs
+C:\Users\n.martins\aprendendo-dotnet\DatasC\obj\Debug\net8.0\DatasC.csproj.CoreCompileInputs.cache
+C:\Users\n.martins\aprendendo-dotnet\DatasC\obj\Debug\net8.0\DatasC.sourcelink.json
+C:\Users\n.martins\aprendendo-dotnet\DatasC\obj\Debug\net8.0\DatasC.dll
+C:\Users\n.martins\aprendendo-dotnet\DatasC\obj\Debug\net8.0\refint\DatasC.dll
+C:\Users\n.martins\aprendendo-dotnet\DatasC\obj\Debug\net8.0\DatasC.pdb
+C:\Users\n.martins\aprendendo-dotnet\DatasC\obj\Debug\net8.0\DatasC.genruntimeconfig.cache
+C:\Users\n.martins\aprendendo-dotnet\DatasC\obj\Debug\net8.0\ref\DatasC.dll
