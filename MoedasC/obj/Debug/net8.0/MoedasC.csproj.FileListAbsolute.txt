@@ -1,0 +1,15 @@
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\bin\Debug\net8.0\MoedasC.exe
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\bin\Debug\net8.0\MoedasC.deps.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\bin\Debug\net8.0\MoedasC.runtimeconfig.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\bin\Debug\net8.0\MoedasC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\bin\Debug\net8.0\MoedasC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\obj\Debug\net8.0\MoedasC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\obj\Debug\net8.0\MoedasC.AssemblyInfoInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\obj\Debug\net8.0\MoedasC.AssemblyInfo.cs
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\obj\Debug\net8.0\MoedasC.csproj.CoreCompileInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\obj\Debug\net8.0\MoedasC.sourcelink.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\obj\Debug\net8.0\MoedasC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\obj\Debug\net8.0\refint\MoedasC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\obj\Debug\net8.0\MoedasC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\obj\Debug\net8.0\MoedasC.genruntimeconfig.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\MoedasC\obj\Debug\net8.0\ref\MoedasC.dll
