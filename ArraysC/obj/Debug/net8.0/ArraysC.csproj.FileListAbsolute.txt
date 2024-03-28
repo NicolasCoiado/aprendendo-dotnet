@@ -1,0 +1,15 @@
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\bin\Debug\net8.0\ArraysC.exe
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\bin\Debug\net8.0\ArraysC.deps.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\bin\Debug\net8.0\ArraysC.runtimeconfig.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\bin\Debug\net8.0\ArraysC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\bin\Debug\net8.0\ArraysC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\obj\Debug\net8.0\ArraysC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\obj\Debug\net8.0\ArraysC.AssemblyInfoInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\obj\Debug\net8.0\ArraysC.AssemblyInfo.cs
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\obj\Debug\net8.0\ArraysC.csproj.CoreCompileInputs.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\obj\Debug\net8.0\ArraysC.sourcelink.json
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\obj\Debug\net8.0\ArraysC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\obj\Debug\net8.0\refint\ArraysC.dll
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\obj\Debug\net8.0\ArraysC.pdb
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\obj\Debug\net8.0\ArraysC.genruntimeconfig.cache
+C:\Users\n.martins\Desktop\aprendendo-dotnet\ArraysC\obj\Debug\net8.0\ref\ArraysC.dll
